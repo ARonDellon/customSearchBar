@@ -14,6 +14,7 @@ you can change these property below
 
 @property (nonatomic,assign)NSTextAlignment searchTextAlignment;
 
+----------------------------------------------------------------------
 
 @property (nonatomic,copy)NSString *placeHolderStr;
 
