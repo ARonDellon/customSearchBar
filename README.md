@@ -1,8 +1,8 @@
-# customSearBar
+# customSearchBar
 
-A custom SearchBar
+##A custom SearchBar
 
-you can change these property below
+###you can change these property below
 
 @property (nonatomic,assign)CGRect searchTextFieldFrame;
 
